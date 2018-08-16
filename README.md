@@ -1,4 +1,4 @@
-# ASUS-DSL-N10 Authentication-Bypass
+# ASUS DSL N10 Authentication-Bypass
 
 ## Title: ASUS-DSL N10 1.1.2.2_17 - Authentication Bypass
 Author: AmnBAN team  
