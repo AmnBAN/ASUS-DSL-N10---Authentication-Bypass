@@ -1,6 +1,6 @@
 # ASUS-DSL-N10---Authentication-Bypass
 
-# Title: ASUS-DSL N10 1.1.2.2_17 - Authentication Bypass
+## Title: ASUS-DSL N10 1.1.2.2_17 - Authentication Bypass
 Author: AmnBAN team
 Date: 2018-08-06
 Vendor Homepage: https://www.asus.com/Networking/DSLN10_C1_with_5dBi_antenna/
