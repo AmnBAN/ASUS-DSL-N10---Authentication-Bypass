@@ -30,3 +30,6 @@ https://www.exploit-db.com/exploits/45201/
 
 ## TODO:
 Develop [RouterSploit](https://github.com/threat9/routersploit)  module for this vulnerability.
+
+## Fix:
+This issue was fixed in FW 1.1.2.3_345.
